@@ -1,0 +1,33 @@
+h1, h2, p {
+    text-align: center;
+    color: white;
+	font-family: Arial;
+}
+
+body {
+	background-color: #249DD1;
+}
+
+a {
+	color: white;
+	font-size: 20px;
+	font-family: Arial;
+	
+}
+
+.classes {
+	width:270px;
+	margin: 0 auto;
+	text-align: left;
+	color: white;
+	font-family: Arial;
+}
+
+.projects {
+	width:350px;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	font-family: Arial;
+}
+
